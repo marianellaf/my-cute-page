@@ -13,9 +13,9 @@ li{
 	padding: 2%;
 	margin-left: 16%;
 	color:#0F0D0D;
-	font-weight: 500;
+	font-weight: 500px;
 	font-size: 20px;
-	}
+}
 
 .portada{
 	background: url(../images/Cielo-estrellado-con-nubes3.jpg) no-repeat;
@@ -80,7 +80,7 @@ h4{
 	margin-bottom: 3%;
 }
 
-.flor{
+.circulos{
 	margin-left: 10%;
 }
 
@@ -104,7 +104,7 @@ h4{
 }
 
 .iconos{
-margin-left: 28%;
+	margin-left: 28%;
 }
 
 .iconos a{
